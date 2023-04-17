@@ -1,2 +1,2 @@
-# 2022-intro-git-R
+# 2023-intro-git-R
 Intro to git with R/RStudio
